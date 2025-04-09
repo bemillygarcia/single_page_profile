@@ -78,7 +78,7 @@ body {
     font-size: 50px;
     text-align: center;
     float: left;
-    color: orangered;
+    color: darkturquoise;
     margin: 30px;
     margin-left: 60px;
     margin-top: 40px;
@@ -86,7 +86,7 @@ body {
   }
   
   .introduction {
-    color: lightseagreen;
+    color: darkturquoise;
     text-align: justify;
     font-size: 30px;
     text-align: center;
@@ -114,7 +114,7 @@ body {
   #about-me h1 {
     font-size: 65px;
     margin-top: 90px;
-    color: orangered;
+    color: darkturquoise;
     text-align: left;
   }
   
@@ -128,7 +128,7 @@ body {
 
   
   .profile_image {
-    width: 440px;
+    width: 500px;
     height: fit-content;
     vertical-align: middle;
     margin: 5px;
@@ -295,7 +295,7 @@ body {
   .popup button:hover {
     background-color: #fff;
     border: 2px solid orangered;
-    color: lightseagreen;
+    color: darkturquoise;
     display: block;
     font-weight: bolder;
     text-align: center;
@@ -338,7 +338,7 @@ body {
   }
   
   button:hover {
-    background-color: lightseagreen;
+    background-color: darkturquoise;
     border: 1px solid orangered;
     color: #fff;
     display: block;
