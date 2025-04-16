@@ -34,8 +34,10 @@ body {
   
   .topmenu:hover {
     color: white;
-    font-weight: bold;
+    font-weight: lighter;
     background-color: lightseagreen;
+    border-radius: 15px;
+    box-shadow: 3px 4px #fff;
   }
   
   .topdiv {
@@ -46,6 +48,8 @@ body {
     text-align: center;
     background-color: orangered;
     overflow: hidden;
+    border-radius: 15px;
+    font-weight: bold;
   }
   
   .profile_name {
