@@ -339,15 +339,19 @@ body {
     padding: 10px;
     width: 2in;
     font-size: 20px;
+    font-family: "Fredoka";
+    font-weight: bold;
+    box-shadow: 3px 4px lightgray;
   }
   
   button:hover {
     background-color: darkturquoise;
     border: 1px solid orangered;
-    color: #fff;
+    color: white;
     display: block;
     border-radius: 6px;
     text-align: center;
     cursor: pointer;
-    font-weight: bolder;
+    font-weight: lighter;
+    box-shadow: none;
   }
